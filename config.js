@@ -1,0 +1,1 @@
+const BACKEND_URL = "https://script.google.com/macros/s/AKfycbwxhHXx27PG8K4FdV81UOy9VdeFeRBbYIYt8lU9SnLnMIoP7bjm8SAoA0zErOIMj_yOGA/exec";
